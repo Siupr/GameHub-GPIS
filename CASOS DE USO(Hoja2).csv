@@ -1,0 +1,26 @@
+﻿ID;CASO DE USO;COMPLEJIDAD;PESO;JUSTIFICACIÓN
+CU-01;Registrarse;Simple;5;Formulario básico con validación
+CU-02;Iniciar sesión;Simple;5;Validación de credenciales
+CU-03;Publicar noticia;Media;10;Creación y edición de contenido
+CU-04;Comentar en blog;Simple;5;Comentario asociado a usuario
+CU-05;Gestionar usuarios;Compleja;15;Administración de roles y cuentas
+CU-06;Gestionar catálogo de videojuegos;Media;10;Alta, edición y consulta de videojuegos
+CU-07;Consultar ranking;Simple;5;Visualización de listado ordenado
+CU-08;Gestionar eventos;Media;10;Alta y edición de eventos/lanzamientos
+CU-09;Gestionar multimedia;Media;10;Gestión de vídeos/trailers externos
+CU-10;Contactar con equipo editorial;Simple;5;Envío de formulario de contacto
+;;;;
+;;TOTAL UUCW;80;
+;;;;
+;;;;
+;;;;
+;;;;
+factores de ajuste;;;;
+;;;;
+Concepto;Valor;Explicación;;
+UUCW;80;Total de puntos de caso de uso no ajustados;;
+Factor técnico;1,10;Complejidad técnica moderada;;
+Factor ambiental;0,90;Equipo con experiencia media y apoyo de WordPress;;
+UCP ajustados;79,20;Puntos de caso de uso ajustados;;
+Horas por UCP;20;Productividad estimada;;
+Esfuerzo estimado;1584;Horas totales estimadas;;

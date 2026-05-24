@@ -1,0 +1,10 @@
+Presupuesto en Eurípides;;;;
+;;;;
+Concepto;Fórmula;Valor;Resultado;Unidad / nota
+Integrantes del equipo;Dato del equipo;4;4;Personas
+Duración estimada;Resultado COCOMO;8,74;8,74;Meses
+Presupuesto mensual por integrante;Dato del enunciado;1000;1000;€P / mes por integrante
+Presupuesto total;1000 × integrantes × duración;34960;34960;€P
+Esfuerzo COCOMO;Resultado COCOMO;26,93;26,93;Persona-mes
+Horas estimadas;PM × 160;4308,8;4308,8;Horas
+Valor-hora estimado;Presupuesto total / horas estimadas;8,11;8,11;€P/h
