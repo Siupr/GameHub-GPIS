@@ -13,7 +13,7 @@ ________________________________________
 2. Política de ramas
 El equipo adopta un GitFlow simplificado, adaptado al tamaño del equipo (4 personas) y a la naturaleza académica del proyecto.
 Rama	Propósito
-main	Rama estable. Contiene únicamente código listo para entregar en cada inspección. No se permiten commits directos.
+main	Rama estable. Contiene únicamente código listo para entregar en cada inspección. Se permiten commits directos para facilitar el flujo, si no se hace muy molesto.
 develop	Rama de integración. Aquí se fusionan las funcionalidades terminadas y revisadas.
 feature/*	Ramas de trabajo. Una por integrante y fase, partiendo siempre de develop.
 
